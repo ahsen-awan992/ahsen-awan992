@@ -69,7 +69,7 @@
 ## 🤝 Let's Connect
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~014c157d7e6bd20d29"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
